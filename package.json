@@ -1,0 +1,14 @@
+{
+  "name": "hackathon",
+  "version": "0.0.0",
+  "description": "hackathon",
+  "main": "server.js",
+  "author": {
+    "name": "vishal"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "mongoose": "^4.13.6",
+    "morgan": "^1.9.0"
+  }
+}
